@@ -10,7 +10,33 @@
 	<a href="https://www.instagram.com/raul__blazquez/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## *TOP* Proyects
+# 💻 Tech Stack:
+### Languages & Frameworks:
+![Java](https://img.shields.io/badge/Java-%23e86f01.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23f7c839.svg?&style=for-the-badge&logo=python&logoColor=%23316994)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%239400FF.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+
+
+### Tools & Platforms:
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+### Cybersecurity & Offensive Security Tools:
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23172B4D.svg?&style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-%23FF0000.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?&style=for-the-badge&logo=gnu&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-%23007ACC.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-%23CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
