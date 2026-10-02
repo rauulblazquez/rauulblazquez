@@ -3,6 +3,29 @@
 </div>
 <img src="https://imgur.com/Nn4Rtyv.jpeg">
 
+💻 I’ve always been passionate about technology and cybersecurity, which led me to complete a Higher Technician Degree in Network Computer Systems Administration (ASIR) and build a strong foundation in IT systems.
+
+🧑‍💻 I currently work as a Technical Support Technician at Fractalia, with more than four years of experience in technical support, incident management, user assistance and corporate environments.
+
+🔐 My main career goal is cybersecurity. I have completed a Master’s in Cybersecurity and a Master’s in Ethical Hacking, and I hold the CEH v13 certification and B2 English (First Certificate).
+
+🛠️ Skills & experience:
+
+Technical support and incident management
+Systems administration and maintenance
+Active Directory and access management
+Troubleshooting and monitoring
+Cybersecurity fundamentals
+Vulnerability analysis and penetration testing
+
+📈 Currently:
+I continue learning and practicing cybersecurity to strengthen my technical skills and grow professionally.
+
+🎯 Career goal:
+To transition into cybersecurity, particularly Pentesting or Cybersecurity Analyst roles.
+
+🤝 Open to connecting with cybersecurity professionals and exploring new opportunities.
+#Cybersecurity #Pentesting #EthicalHacking #ASIR #ITSupport #InformationSecurity
 <p>
 	<a href="mailto:blazquezraulins@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/raul735735"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -25,22 +48,6 @@
     <p><strong>Tools:</strong> ServiceNow, Citrix, Microsoft 365, Salesforce,
       Active Directory, Change Auditor, SysTrack, Knox Asset Intelligence</p>
   </div>
-
-  <hr>
-
-  <div class="job">
-    <h3>Help Desk Technician</h3>
-    <p><strong>SOSMATIC</strong> · Internship</p>
-    <p><em>Oct. 2021 – Mar. 2022 · Remote (Barcelona)</em></p>
-    <p>
-      Technical support, incident resolution, troubleshooting, access management,
-      and remote assistance in corporate environments.
-    </p>
-    <p><strong>Tools:</strong> ServiceNow, Jira, Zendesk, Active Directory,
-      Citrix, Microsoft 365, VPN, and remote support tools
-    </p>
-  </div>
-
 </section>
 
 <section id="certifications">
@@ -51,33 +58,25 @@
     <p><strong>EC-Council</strong></p>
     <p>Ethical hacking, vulnerability assessment, and penetration testing.</p>
   </div>
-
   <hr>
-
   <div class="cert">
     <h3>First Certificate in English (B2)</h3>
     <p><strong>University of Oxford</strong></p>
     <p>English language proficiency at B2 level.</p>
   </div>
-
   <hr>
-
   <div class="cert">
     <h3>Master's Degree in Ethical Hacking</h3>
     <p><strong>Tokio School</strong></p>
     <p>Vulnerability assessment, ethical hacking, and cybersecurity techniques.</p>
   </div>
-
   <hr>
-
   <div class="cert">
     <h3>Master's Degree in Cybersecurity</h3>
     <p><strong>Tokio School</strong></p>
     <p>Penetration testing, cryptography, and advanced cybersecurity fundamentals.</p>
   </div>
-
 </section>
-
 <section id="technologies">
   <h2>👨🏻‍💻 Technologies & Tools</h2>
 
