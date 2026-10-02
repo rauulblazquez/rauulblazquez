@@ -10,6 +10,84 @@
 	<a href="https://www.instagram.com/raul__blazquez/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<section id="experience">
+  <h2>💼 Experience</h2>
+
+  <div class="job">
+    <h3>Technical Support Help Desk</h3>
+    <p><strong>Fractalia</strong> · Full-time</p>
+    <p><em>Aug. 2023 – Present · Remote (Barcelona)</em></p>
+    <p>
+      Technical support and incident management for users and employees,
+      including systems, software troubleshooting, access management,
+      and IT support in corporate environments.
+    </p>
+    <p><strong>Tools:</strong> ServiceNow, Citrix, Microsoft 365, Salesforce,
+      Active Directory, Change Auditor, SysTrack, Knox Asset Intelligence</p>
+  </div>
+
+  <hr>
+
+  <div class="job">
+    <h3>Help Desk Technician</h3>
+    <p><strong>SOSMATIC</strong> · Internship</p>
+    <p><em>Oct. 2021 – Mar. 2022 · Remote (Barcelona)</em></p>
+    <p>
+      Technical support, incident resolution, troubleshooting, access management,
+      and remote assistance in corporate environments.
+    </p>
+    <p><strong>Tools:</strong> ServiceNow, Jira, Zendesk, Active Directory,
+      Citrix, Microsoft 365, VPN, and remote support tools
+    </p>
+  </div>
+
+</section>
+
+<section id="certifications">
+  <h2>📜 Certifications & Education</h2>
+
+  <div class="cert">
+    <h3>Certified Ethical Hacker (CEH v13)</h3>
+    <p><strong>EC-Council</strong></p>
+    <p>Ethical hacking, vulnerability assessment, and penetration testing.</p>
+  </div>
+
+  <hr>
+
+  <div class="cert">
+    <h3>First Certificate in English (B2)</h3>
+    <p><strong>University of Oxford</strong></p>
+    <p>English language proficiency at B2 level.</p>
+  </div>
+
+  <hr>
+
+  <div class="cert">
+    <h3>Master's Degree in Ethical Hacking</h3>
+    <p><strong>Tokio School</strong></p>
+    <p>Vulnerability assessment, ethical hacking, and cybersecurity techniques.</p>
+  </div>
+
+  <hr>
+
+  <div class="cert">
+    <h3>Master's Degree in Cybersecurity</h3>
+    <p><strong>Tokio School</strong></p>
+    <p>Penetration testing, cryptography, and advanced cybersecurity fundamentals.</p>
+  </div>
+
+</section>
+
+<section id="technologies">
+  <h2>👨🏻‍💻 Technologies & Tools</h2>
+
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,postman,eclipse,vscode,bash,linux&perline=12" />
+    </a>
+  </p>
+</section>
+
 # 💻 Tech Stack:
 ### Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23e86f01.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
