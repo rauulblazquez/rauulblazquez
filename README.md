@@ -77,16 +77,8 @@ To transition into cybersecurity, particularly Pentesting or Cybersecurity Analy
     <p>Penetration testing, cryptography, and advanced cybersecurity fundamentals.</p>
   </div>
 </section>
-<section id="technologies">
-  <h2>👨🏻‍💻 Technologies & Tools</h2>
 
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,postman,eclipse,vscode,bash,linux&perline=12" />
-    </a>
-  </p>
-</section>
-
+<section>
 # 💻 Tech Stack:
 ### Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23e86f01.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
@@ -114,12 +106,15 @@ To transition into cybersecurity, particularly Pentesting or Cybersecurity Analy
 ![Gobuster](https://img.shields.io/badge/Gobuster-%23007ACC.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-%23CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+</section>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<section>
 <p align="center">
 <a href="https://github.com/rauulblazquez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rauulblazquez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rauulblazquez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+</section>
