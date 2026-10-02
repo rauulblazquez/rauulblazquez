@@ -7,10 +7,7 @@
 
 🧑‍💻 I currently work as a Technical Support Technician at Fractalia, with more than four years of experience in technical support, incident management, user assistance and corporate environments.
 
-🔐 My main career goal is cybersecurity. I have completed a Master’s in Cybersecurity and a Master’s in Ethical Hacking, and I hold the CEH v13 certification and B2 English (First Certificate).
-
 🛠️ Skills & experience:
-
 Technical support and incident management
 Systems administration and maintenance
 Active Directory and access management
@@ -20,12 +17,7 @@ Vulnerability analysis and penetration testing
 
 📈 Currently:
 I continue learning and practicing cybersecurity to strengthen my technical skills and grow professionally.
-
-🎯 Career goal:
-To transition into cybersecurity, particularly Pentesting or Cybersecurity Analyst roles.
-
-🤝 Open to connecting with cybersecurity professionals and exploring new opportunities.
-#Cybersecurity #Pentesting #EthicalHacking #ASIR #ITSupport #InformationSecurity
+*You can find additional projects in my other repositories.*
 <p>
 	<a href="mailto:blazquezraulins@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/raul735735"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -79,6 +71,7 @@ To transition into cybersecurity, particularly Pentesting or Cybersecurity Analy
 </section>
 
 <section>
+	
 # 💻 Tech Stack:
 ### Languages & Frameworks:
 ![Java](https://img.shields.io/badge/Java-%23e86f01.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
